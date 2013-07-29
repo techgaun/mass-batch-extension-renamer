@@ -1,0 +1,13 @@
+C:\Users\samar\Documents\Visual Studio 2008\Projects\MassExtensionRenamer\MassExtensionRenamer\bin\Debug\MassExtensionRenamer.exe
+C:\Users\samar\Documents\Visual Studio 2008\Projects\MassExtensionRenamer\MassExtensionRenamer\bin\Debug\MassExtensionRenamer.pdb
+C:\Users\samar\Documents\Visual Studio 2008\Projects\MassExtensionRenamer\MassExtensionRenamer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\samar\Documents\Visual Studio 2008\Projects\MassExtensionRenamer\MassExtensionRenamer\obj\Debug\MassExtensionRenamer.Properties.Resources.resources
+C:\Users\samar\Documents\Visual Studio 2008\Projects\MassExtensionRenamer\MassExtensionRenamer\obj\Debug\MassExtensionRenamer.csproj.GenerateResource.Cache
+C:\Users\samar\Documents\Visual Studio 2008\Projects\MassExtensionRenamer\MassExtensionRenamer\obj\Debug\MassExtensionRenamer.exe
+C:\Users\samar\Documents\Visual Studio 2008\Projects\MassExtensionRenamer\MassExtensionRenamer\obj\Debug\MassExtensionRenamer.pdb
+C:\Users\samar\Documents\Visual Studio 2008\Projects\MassExtensionRenamer\MassExtensionRenamer\obj\Debug\MassExtensionRenamer.frmMain.resources
+C:\Users\samar\Documents\Visual Studio 2008\Projects\MassExtensionRenamer\MassExtensionRenamer\bin\Debug\MassExtensionRenamer.exe.manifest
+C:\Users\samar\Documents\Visual Studio 2008\Projects\MassExtensionRenamer\MassExtensionRenamer\bin\Debug\MassExtensionRenamer.application
+C:\Users\samar\Documents\Visual Studio 2008\Projects\MassExtensionRenamer\MassExtensionRenamer\obj\Debug\MassExtensionRenamer.TrustInfo.xml
+C:\Users\samar\Documents\Visual Studio 2008\Projects\MassExtensionRenamer\MassExtensionRenamer\obj\Debug\MassExtensionRenamer.exe.manifest
+C:\Users\samar\Documents\Visual Studio 2008\Projects\MassExtensionRenamer\MassExtensionRenamer\obj\Debug\MassExtensionRenamer.application
